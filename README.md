@@ -8,7 +8,7 @@
 
 # Sizing residential PV battery systems
 <br />
-Python code for sizing PV battery systems.
+ This tool feeds directly from a .xlsx file containing PV Generation and PV Consumption data and simulates different battery sizes providing the user with an individual data file capturing the energy flow behavior for each battery size, as well as its own interactive plot. Additionally, it also provides with a comparison of the energetic assessment criteria used in this project, the self-consumption rate and the degree of self-sufficiency to evaluate the simulations.
 
 
 ## Features
@@ -46,7 +46,7 @@ Installation. In case of Linux or Mac, open terminal:
 
 Download
 - $ cd Downloads/
-- $ git clone https://github.com/al3Co/Python-Codes.git
+- $ git clone https://github.com/RaquelVasquez/SizingResidentialPVbatterysystems.git
 
 Run
 - $ cd SizingResidentialPVbatterysystems/
